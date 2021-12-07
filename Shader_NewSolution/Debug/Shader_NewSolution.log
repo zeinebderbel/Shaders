@@ -1,0 +1,5 @@
+﻿Program.obj : error LNK2019: symbole externe non résolu __imp__glewInit@0 référencé dans la fonction _main
+Program.obj : error LNK2019: symbole externe non résolu _glfwInit référencé dans la fonction _main
+E:\Shader_NewSolution\Ressources\Include\glew-2.1.0-win32\glew-2.1.0\lib\Release\x64\glew32.lib : warning LNK4272: type d'ordinateur bibliothèque 'x64' en conflit avec le type d'ordinateur cible 'x86'
+E:\Shader_NewSolution\Ressources\Include\glfw-3.3.4.bin.WIN64\glfw-3.3.4.bin.WIN64\lib-vc2017\glfw3dll.lib : warning LNK4272: type d'ordinateur bibliothèque 'x64' en conflit avec le type d'ordinateur cible 'x86'
+E:\Shader_NewSolution\Debug\Shader_NewSolution.exe : fatal error LNK1120: 2 externes non résolus
