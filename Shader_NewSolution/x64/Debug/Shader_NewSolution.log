@@ -1,2 +1,3 @@
 ﻿  Program.cpp
-  Shader_NewSolution.vcxproj -> E:\Shader_NewSolution\x64\Debug\Shader_NewSolution.exe
+C:\Users\zderbel\Documents\Shaders\Shader_NewSolution\Program.cpp(208,23): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+  Shader_NewSolution.vcxproj -> C:\Users\zderbel\Documents\Shaders\x64\Debug\Shader_NewSolution.exe
