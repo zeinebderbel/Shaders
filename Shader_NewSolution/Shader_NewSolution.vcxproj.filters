@@ -26,9 +26,6 @@
     <ClInclude Include="loadShader.h">
       <Filter>Fichiers d%27en-tête</Filter>
     </ClInclude>
-    <ClInclude Include="..\Ressources\Texture\stb_image.h">
-      <Filter>Fichiers d%27en-tête</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\Ressources\shaders\shader.vert" />
